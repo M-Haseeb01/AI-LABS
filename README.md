@@ -1,2 +1,2 @@
 # AI-LABS
-Hands on Practice with Different AI related Tasks
+Hands on Practice with Different AI related Tasks.
